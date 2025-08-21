@@ -22,7 +22,7 @@ This Java program prompts the user for their name, weight, and height, converts 
 4. Enter the information prompted.
 5. The program will display your formatted personal information, the calculated BMI, and BMI category. 
 
-# Sample Output
+## Sample Output
 ![BMI Calculator Screenshot](BMICalculationSS.png)
 
 ## Notes
