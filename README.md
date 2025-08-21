@@ -19,3 +19,7 @@ This Java program prompts the user for their name, weight, and height, converts 
 - Arithmetic operations and rounding  
 - Producing structured, readable output  
 
+---
+
+# Output Example
+![BMI Calculator Screenshot](BMICalculationSS.png)
